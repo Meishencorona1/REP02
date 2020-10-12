@@ -1,3 +1,6 @@
+Konflikt 1
 Version 1
 Version 2
 Integration changes
+Bugfix
+Hotfix
