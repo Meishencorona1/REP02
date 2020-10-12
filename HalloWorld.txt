@@ -1,3 +1,4 @@
+Konflikt 4
 <<<<<<< HEAD
 Konflikt 1
 =======
